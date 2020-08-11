@@ -4,9 +4,9 @@
 - 🔭 I’m currently working on `web media development` (live streaming, playback, etc.).
 - ✒️ I’m currently learning [@golang](https://github.com/golang/go).
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/lbwa?tab=repositories" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbwa&layout=compact&hide=html,css"/></a>
-</p>
+</p> -->
 
 <!-- ### Languages and Tools
 
