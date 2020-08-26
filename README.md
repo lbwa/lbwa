@@ -4,6 +4,8 @@
 - 🔭 I’m currently working on `web media development` (live streaming, playback, etc.).
 - ✒️ I’m currently learning [@golang](https://github.com/golang/go).
 
+![](https://www.codewars.com/users/lbwa/badges/micro)
+
 <!-- <p align="center">
   <a href="https://github.com/lbwa?tab=repositories" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbwa&layout=compact&hide=html,css"/></a>
 </p> -->
