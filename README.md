@@ -1,10 +1,10 @@
 ### About
 
 - 🆙 Hi! I'm Bowen Liu (刘博文).
-- 🔭 I’m currently working on `web media development` (live streaming, playback, etc.).
+- 🔭 I’m currently working on `web media`(live streaming, playback, etc.) based on `web assembly`.
 - ✒️ I’m currently learning [@golang](https://github.com/golang/go).
 
-![](https://www.codewars.com/users/lbwa/badges/micro)
+<!-- ![](https://www.codewars.com/users/lbwa/badges/micro) -->
 
 <!-- <p align="center">
   <a href="https://github.com/lbwa?tab=repositories" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbwa&layout=compact&hide=html,css"/></a>
