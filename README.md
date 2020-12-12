@@ -1,7 +1,7 @@
 ### About
 
-- 🆙 Hi! I'm Bowen Liu (刘博文).
-- 🔭 I'm currently working on web efficiency engineering for making web development more efficiently. I used to work on web media development(live streaming, playback, etc.) based on `web assembly`.
+- 🆙 Hi! I'm Liu Bowen (刘博文)
+- 🔭 I'm currently working on front-end infrastructures for better web development experiences. ~and used to work on web media development(live streaming, playback, etc.) based on `web assembly`.~
 - ✒️ I’m currently learning [@golang](https://github.com/golang/go) and more interesting things.
 
 <!-- ![](https://www.codewars.com/users/lbwa/badges/micro) -->
