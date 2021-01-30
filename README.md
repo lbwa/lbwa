@@ -1,7 +1,7 @@
 ### About
 
 - 🆙 Hi! I'm Liu Bowen (刘博文).
-- 🚀 I'm currently working on front-end infrastructures for higher web development efficiency.
+- 🚀 I'm currently working on web dev ecosystems.
 
 <!--
 - 🤔 I used to work on web media development (live streaming, playback, etc.) based on `web assembly`.
