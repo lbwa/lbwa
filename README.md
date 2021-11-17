@@ -3,13 +3,6 @@
 - 🆙 Hi! I'm Liu Bowen (刘博文).
 - 🚀 I'm currently working on web dev ecosystems.
 
-|￣￣￣￣￣￣￣ |   
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[set.sh](https://set.sh)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|    
-| ＿＿＿＿＿＿＿|    
-(\\\__/)&nbsp;&nbsp;||    
-(•ㅅ•) ||    
-/ 　 づ   
-
 <!--
 - 🤔 I used to work on web media development (live streaming, playback, etc.) based on `web assembly`.
 - ✒️ I’m currently learning [@golang](https://github.com/golang/go) and more interesting things.
